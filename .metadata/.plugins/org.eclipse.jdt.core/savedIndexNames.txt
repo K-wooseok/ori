@@ -38,7 +38,6 @@ INDEX VERSION 1.134+C:\workspace\ori\.metadata\.plugins\org.eclipse.jdt.core
 3598888030.index
 1583649859.index
 3462807271.index
-2503711345.index
 78986140.index
 1166701996.index
 3217708802.index
